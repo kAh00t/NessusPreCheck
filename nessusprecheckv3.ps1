@@ -15,7 +15,7 @@
  └──────────────────────────────────────────────────────┘
 
 What Does It do?: 
-At present, this tool checks the the usual suspects that go wrong when trying to perform a Credential Patch Audit in Nessus. This currently only performs checks and does not change any settings on the remote device (this may change)
+Performs checks to see if the requirements for a Nessus scan are present, and can make minor changes if required (nothing happens automatically). REMEMBER CLEANUP!
 
 What doesn't it do?: 
 Make any changes to the remote device (yet). These will be optional when they do get implimented 
